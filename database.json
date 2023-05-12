@@ -1,0 +1,10 @@
+{
+    "updates":[
+        {
+            "update_name":"Test Update for Windows Developer Preview M1 for x64 based systems",
+            "architecture":"x64",
+            "mode":"urgent",
+            "script":"console.log('This is a test update')"
+        }
+    ]
+}
