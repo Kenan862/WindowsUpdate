@@ -5,7 +5,7 @@
             "architecture":"x64",
             "oem":"none",
             "mode":"urgent",
-            "script":"console.log('Update Initialized')"
+            "script":"$('body').append('<button>Hello World</button>')"
         },
 
         {
