@@ -4,7 +4,14 @@
             "update_name":"Test Update for Windows Developer Preview M1 for x64 based systems",
             "architecture":"x64",
             "mode":"urgent",
-            "script":"console.log('This is a test update')"
+            "script":"console.log('Update Initialized')"
+        },
+
+        {
+            "update_name":"Cumulative Update for Windows Developer Preview M1 for x64 based systems",
+            "architecture":"x64",
+            "mode":"urgent",
+            "script":"console.log('2 Update Initialized')"
         }
     ]
 }
